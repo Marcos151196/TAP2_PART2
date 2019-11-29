@@ -1,0 +1,4 @@
+localoutputdirectory = "/home/ubuntu/TAP2_PART2/"
+dfsoutputdirectory = ""
+ngrams3bucket = "s3a://datasets.elasticmapreduce/ngrams/books/20090715/spa-all/1gram/data"
+task1binary = "/home/ubuntu/TAP2_PART2/Task1/task1"
